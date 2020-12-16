@@ -11,3 +11,4 @@
 * bombon
 * burbuja
 * bellota
+* bella
