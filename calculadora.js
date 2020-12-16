@@ -8,6 +8,6 @@ $suma.addEventListener("click", sumar);
 
 function sumar(e) {
     e.preventDefault();
-    var resultado = $num1.value + $num2.value;
-    console.log(resultado);
+    var resultado = parseInt($num1.value) + parseInt($num2.value);
+    $resultado.innerText = resultado;
 }
