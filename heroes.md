@@ -8,3 +8,7 @@
 * Linterna Verde
 * Robin
 * batman
+* bombon
+* burbuja
+* bellota
+* bella
