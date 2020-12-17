@@ -28,6 +28,7 @@ function multiplicar(e) {
     var resultado = parseInt($num1.value) + parseInt($num2.value);
     $resultado.innerText = resultado;
 }
+sadasdasdas
 
 function dividir(e) {
     e.preventDefault();
