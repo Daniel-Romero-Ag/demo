@@ -45,6 +45,6 @@ function conflicto() {
     return "hola";
 }
 
-
-asdasdas
-asdasdsadasdas
+function intento2() {
+    return "intento 2";
+}
