@@ -22,6 +22,7 @@ function restar(e) {
     var resultado = parseInt($num1.value) + parseInt($num2.value);
     $resultado.innerText = resultado;
 }
+asdasdas
 
 function multiplicar(e) {
     e.preventDefault();
