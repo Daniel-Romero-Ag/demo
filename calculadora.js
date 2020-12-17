@@ -37,7 +37,9 @@ function dividir(e) {
     $resultado.innerText = resultado;
 }
 
-
+function master() {
+    return "adios";
+}
 
 
 asdasdas
