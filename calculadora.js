@@ -5,8 +5,15 @@ var $resta = document.getElementById("resta");
 var $resultado = document.getElementById("resultado");
 
 $suma.addEventListener("click", sumar);
+$resta.addEventListener("click", restar);
 
 function sumar(e) {
+    e.preventDefault();
+    var resultado = parseInt($num1.value) + parseInt($num2.value);
+    $resultado.innerText = resultado;
+}
+
+function restar(e) {
     e.preventDefault();
     var resultado = parseInt($num1.value) + parseInt($num2.value);
     $resultado.innerText = resultado;
