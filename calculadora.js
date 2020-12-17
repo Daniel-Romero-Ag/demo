@@ -41,6 +41,10 @@ function master() {
     return "adios";
 }
 
+function conflicto() {
+    return "hola";
+}
+
 
 asdasdas
 asdasdsadasdas
