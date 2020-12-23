@@ -48,3 +48,7 @@ function conflicto() {
 function intento2() {
     return "intento 2";
 }
+
+function intento1() {
+    return "intento1";
+}
